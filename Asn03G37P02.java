@@ -1,5 +1,3 @@
-package assignment;
-
 import java.util.*;
 
 public class Asn03G37P02 {
