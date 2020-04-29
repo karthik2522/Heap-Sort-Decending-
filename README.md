@@ -1,4 +1,4 @@
-# HeapMin
+# Heap Sort( Decending )
 
 Team Details:
 NAME                          USN
