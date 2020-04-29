@@ -1,0 +1,6 @@
+#output:
+Array is: [2, 10, 3, 1, 4, 8, 5, 6, 11, 9]
+Sorted array is: [11, 10, 9, 8, 6, 5, 4, 3, 2, 1]
+Time complexity:
+It takes O(logn) for heap and O(n) for constructing a heap. 
+Hence, the overall time complexity of heap sort using min heap.
