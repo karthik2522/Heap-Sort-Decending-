@@ -22,7 +22,7 @@ run the program
 
 Challenges faced 
 We dont know how to do in intial stage 
-we gatered some information about the Heap sort
+we gathered some information about the Heap sort
 After we got to know about the how to sort 
 while we are sorting its coming in ascending order from smallest to largest
 and we got to know we implemented ascending order
